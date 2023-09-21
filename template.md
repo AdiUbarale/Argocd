@@ -1,6 +1,6 @@
-`id: fes-adr00x <br>
-title: "ADR00X: name" <br>
-status: [X]Proposed, [ ]Accepted, [ ]Rejected, [ ]Deprecated, [ ]Superseded`
+`id: fes-adr00x`
+`title: "ADR00X: name" <br>`
+`status: [X]Proposed, [ ]Accepted, [ ]Rejected, [ ]Deprecated, [ ]Superseded`
 
 ## Reference to the Jira Epic/Story
 

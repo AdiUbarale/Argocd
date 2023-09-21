@@ -1,6 +1,6 @@
 `id: fes-adr00x` <br>
 `title: "ADR00X: name"` <br>
-`status: [X]Proposed, [ ]Accepted, [ ]Rejected, [ ]Deprecated, [ ]Superseded`
+`status: [x]proposed, [ ]accepted, [ ]rejected, [ ]deprecated, [ ]superseded`
 
 ## Reference to the Jira Epic/Story
 
@@ -26,11 +26,19 @@ A requirement that is explicitly excluded from the scope of a project.
 
 What is the change that we're proposing and/or doing?
 
-## Spikes
+### Risks
+
+What are the potential risks?
+
+### Risk mitigation plans
+
+What are strategies to prevent or reduce the risk?
+
+### Spikes
 
 A spike story in Agile is a user story that needs more information.
 
-## User stories
+### User stories
 
 Simple descriptions containing the needs and expectations of users.
 
@@ -42,13 +50,6 @@ Attempt to learn the facts about requirements.
 
 What becomes easier or more difficult to do because of this change?
 
-## Risks
-
-What are the potential risks?
-
-## Risk mitigation plans
-
-What are strategies to prevent or reduce the risk?
 
 ## Design details
 

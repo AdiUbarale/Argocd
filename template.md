@@ -2,8 +2,7 @@
 ---
 id: fes-adr00x
 title: "ADR00X: name"
-status: <br>
-<ul><li>[ ] Proposed</li><li> [ ] Accepted</li><li> [ ] Rejected</li><li> [ ] Deprecated</li><li> [ ] Superseded</li></ul>
+status: [X]Proposed, [ ]Accepted, [ ]Rejected, [ ]Deprecated, [ ]Superseded
 ---
 
 ## Reference to the Jira Epic/Story
